@@ -15,13 +15,13 @@
 
 #####  Bölme işlemi bitikten sonra, tek elemanlı dizilerimizi ikili ikili birleştiriyoruz. Sıralı dizi elde edinceye kadar bu işleme devam ediyoruz.
 
-|                                                |16|  |21|  |11|  |  |8 |  |12|  |22|
-|                                                |  |  |  |  |  |  |  |  |  |  |  |  |
-|ikili ikili ikili sıralayarak birleştiriyoruz.  |  |16|21|  |11|  |  |8 |  |12|22|  |
-|                                                |  |  |  |  |  |  |  |  |  |  |  |  |
-|Tekrar ikili ikili sıralayarak birleştiriyoruz. |  |  |11|16|21|  |  |8 |12|22|  |  |
-|                                                |  |  |  |  |  |  |  |  |  |  |  |  |
-|Son birleştirmede dizimizi elde ediyoruz.       |  |  |  |8 |11|12|16|21|22|  |  |  |
+|                                                 |16|  |21|  |11|  |  |8 |  |12|  |22|
+|                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
+| ikili ikili ikili sıralayarak birleştiriyoruz.  |  |16|21|  |11|  |  |8 |  |12|22|  |
+|                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Tekrar ikili ikili sıralayarak birleştiriyoruz. |  |  |11|16|21|  |  |8 |12|22|  |  |
+|                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Son birleştirmede dizimizi elde ediyoruz.       |  |  |  |8 |11|12|16|21|22|  |  |  |
     
 
 ### *2. Big-O gösterimini yazınız.*
