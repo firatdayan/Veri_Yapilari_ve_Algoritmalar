@@ -4,8 +4,8 @@
 [Patika.dev'in](https://www.patika.dev/) Veri Yapıları ve Algoritmalar eğitiminin ikinci projesidir.
 ### [16,21,11,8,12,22] -> Merge Sort
 
-#### *1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.*
-###### Başlangıçta dizimizi ikiye bölüyoruz. Bölünen dizileri tekrar bölüyoruz. Tek eleman kalana kadar İşleme devam ediyoruz.
+### *1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.*
+##### Başlangıçta dizimizi ikiye bölüyoruz. Bölünen dizileri tekrar bölüyoruz. Tek eleman kalana kadar İşleme devam ediyoruz.
 
 | Diziyi ikiye bölerek yeniden yazıyoruz           |  |  |  |16|21|11|8 |12|22|  |  |  |
 | ------------------------------------------------ |- |- |- |- |- |- |- |- |- |- |- |- |
@@ -16,7 +16,7 @@
 |                                                  |16|  |21|  |11|  |  |8 |  |12|  |22|
 
 
-######  Bölme işlemi bitikten sonra, tek elemanlı dizilerimizi ikili ikili birleştiriyoruz. Sıralı dizi elde edinceye kadar bu işleme devam ediyoruz.
+#####  Bölme işlemi bitikten sonra, tek elemanlı dizilerimizi ikili ikili birleştiriyoruz. Sıralı dizi elde edinceye kadar bu işleme devam ediyoruz.
 
 |                                                |  |  |  |  |  |  |  |  |  |  |  |  |
 |----------------------------------------------- |- |- |- |- |- |- |- |- |- |- |- |- |
@@ -29,5 +29,5 @@
 |Son birleştirmede dizimizi elde ediyoruz.       |  |  |  |8 |11|12|16|21|22|  |  |  |
     
 
-#### *2. Big-O gösterimini yazınız.*
+### *2. Big-O gösterimini yazınız.*
  O(n*(logn)) --> O(6*(log6)) olacaktır.
