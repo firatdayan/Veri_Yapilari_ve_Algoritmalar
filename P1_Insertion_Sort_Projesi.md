@@ -5,11 +5,11 @@
 ### [22,27,16,2,18,6] -> Insertion Sort
 
 ### *1.Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.*
->>1. [2,27,16,22,18,6] Tüm sırayı gezdikten sonra en küçük sayının **2** olduğunu belirledik. **2** ile ilk eleman olan  **22** yer değiştirdi.
->>2. [2,6,16,22,18,27] **6** 2'den sonra en küçük sayı . **6** ve **27** yer değiştirdi.
->>3. [2,6,16,22,18,27] **16** üçüncü en küçük sayı olduğundan yer değiştirilmedi.
->>4. [2,6,16,18,22,27] **18** ve **22** yer değiştirdi.
->>5. [2,6,16,18,22,27] **27** istenen sıralama bulunduğundan yer değiştirilmedi.
+1. [2,27,16,22,18,6] Tüm sırayı gezdikten sonra en küçük sayının **2** olduğunu belirledik. **2** ile ilk eleman olan  **22** yer değiştirdi.
+2. [2,6,16,22,18,27] **6** 2'den sonra en küçük sayı . **6** ve **27** yer değiştirdi.
+3. [2,6,16,22,18,27] **16** üçüncü en küçük sayı olduğundan yer değiştirilmedi.
+4. [2,6,16,18,22,27] **18** ve **22** yer değiştirdi.
+5. [2,6,16,18,22,27] **27** istenen sıralama bulunduğundan yer değiştirilmedi.
 
 ### *2.Big-O gösterimini yazınız.* 
 - O(n^2)
