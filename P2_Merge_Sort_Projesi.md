@@ -23,4 +23,4 @@
     
 
 ### *2. Big-O gösterimini yazınız.*
- O(n*(logn)) --> O(6*(log6)) olacaktır.
+- O(n*(logn)) --> O(6*(log6)) olacaktır.
