@@ -15,9 +15,9 @@
 - O(n^2)
 
 ### *3.Time Complexity:*
-- Average Case:Aradığımız sayının ortada olması 
-- Worst Case:Aradığımız sayının sonda olması
-- Best Case:Aradığımız sayının dizinin en başında olması
+- Average Case: Aradığımız sayının ortada olması 
+- Worst Case: Aradığımız sayının sonda olması
+- Best Case: Aradığımız sayının dizinin en başında olması
 
 ### *4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.*
 - Aradığımız sayı başta ve sonda bulunmadığı için average case kapsamına girer.

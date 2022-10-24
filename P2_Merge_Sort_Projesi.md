@@ -1,4 +1,7 @@
-# Proje-2
+# Proje_2
+---
+## Patika_dev_Insertion_Sort_Projesi
+[Patika.dev'in](https://www.patika.dev/) Veri Yapıları ve Algoritmalar eğitiminin ikinci projesidir.
 ### [16,21,11,8,12,22] -> Merge Sort
 
 #### 1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
