@@ -1,6 +1,6 @@
 # Proje_2
 ---
-## Patika_dev_Insertion_Sort_Projesi
+## Patika_dev_Merge_Sort_Projesi
 [Patika.dev'in](https://www.patika.dev/) Veri Yapıları ve Algoritmalar eğitiminin ikinci projesidir.
 ### [16,21,11,8,12,22] -> Merge Sort
 
@@ -9,9 +9,9 @@
 
 | Diziyi ikiye bölerek yeniden yazıyoruz           |  |  |  |16|21|11|8 |12|22|  |  |  |
 | ------------------------------------------------ |- |- |- |- |- |- |- |- |- |- |- |- |
-| Sol ve sağdaki dizileri tekrar ikiye böluyoruz.  |  |  |16|21|11|  |  |8 |12|22|  |  |
-| Tek eleman kalana kadar bir kez daha bölüyoruz.  |  |16|21|  |11|  |  |8 |  |12|22|  |
-|                                                  |16|  |21|  |11|  |  |8 |  |12|  |22|
+| Sol ve sağdaki dizileri tekrar ikiye böluyoruz   |  |  |16|21|11|  |  |8 |12|22|  |  |
+| Tek eleman kalana kadar bir kez daha bölüyoruz   |  |16|21|  |11|  |  |8 |  |12|22|  |
+| Bölme işlemi bitiyor tekli eleman  kalıyor       |16|  |21|  |11|  |  |8 |  |12|  |22|
 
 #####  Bölme işlemi bitikten sonra, tek elemanlı dizilerimizi ikili ikili küçükten büyüğe birleştiriyoruz. Sıralı dizi elde edinceye kadar bu işleme devam ediyoruz.
 
