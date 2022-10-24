@@ -1,4 +1,5 @@
-# Patika_dev_Insertion_Sort_Projesi
+# Proje_1
+## Patika_dev_Insertion_Sort_Projesi
 [Patika.dev'in](https://www.patika.dev/) Veri Yapıları ve Algoritmalar eğitiminin ilk projesidir.
 ### [22,27,16,2,18,6] -> Insertion Sort
 
