@@ -18,9 +18,7 @@
 |                                                 |16|  |21|  |11|  |  |8 |  |12|  |22|
 | ----------------------------------------------- |- |- |- |- |- |- |- |- |- |- |- |- |
 | İkili ikili ikili sıralayarak birleştiriyoruz   |  |16|21|  |11|  |  |8 |  |12|22|  |
-|                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
 | Tekrar ikili ikili sıralayarak birleştiriyoruz  |  |  |11|16|21|  |  |8 |12|22|  |  |
-|                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
 | Son birleştirmede dizimizi elde ediyoruz        |  |  |  |8 |11|12|16|21|22|  |  |  |
     
 
